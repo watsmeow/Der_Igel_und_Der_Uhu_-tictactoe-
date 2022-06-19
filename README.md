@@ -14,12 +14,3 @@ This project uses OOP to somewhat streamline what could be a relatively straight
 ## Lessons Learned:
 
 Had to fiddle around with setTimeouts in order to get pieces and winner notifications to appear in the correct order, so it was a good lesson in the dreaded event loop.
-
-## Examples:
-Take a look at these couple examples that I have in my own portfolio:
-
-**Palettable:** https://github.com/alecortega/palettable
-
-**Twitter Battle:** https://github.com/alecortega/twitter-battle
-
-**Patch Panel:** https://github.com/alecortega/patch-panel
