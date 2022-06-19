@@ -1,0 +1,54 @@
+*,
+*::before,
+*::after {
+	box-sizing: border-box;
+	margin: 0;
+    font-family: 'Tapestry', cursive;
+}
+
+html { 
+    text-align: center;
+    background: url(background.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+h1 {
+    color: #F7ECD9;
+    text-shadow: 0 0 10px black;
+    font-size: 3rem;
+    margin: 40px 0 20px 0;
+
+}
+
+#gameBoard {
+    margin: 2% auto;
+    width: fit-content;
+    display: grid;
+    grid-template-columns: repeat(3, 200px);
+    grid-template-rows: repeat(3, 200px);
+    grid-gap: 10px;
+}
+
+.gridItem {
+    outline: 2px solid #F7ECD9;
+    box-shadow: 0 0 10px #597126;
+}
+
+.Owl {
+    width: 200px;
+    height: 200px;
+    background-image: url(owl.jpg);
+    background-size: cover;
+    display: none;
+}
+
+.Hedgehog {
+    width: 200px;
+    height: 200px;
+    background-image: url(hedgehog.jpg);
+    background-size: cover;
+    display: none;
+}
