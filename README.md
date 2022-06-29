@@ -1,5 +1,5 @@
 # Der_Igel_und_Der_Uhu_-tictactoe-
-Yep! It's the time tested, age old project of TicTacToe. The theming is inspired by my best friend, who hails from Germany (as does my family). She has an intense love for hedgehogs, and I find the fact that "owl" in German is "Uhu" (the sound an owl makes). Therefore, the "players" are a hedgehog and an owl, and the overall visual theme is reminiscent of a German fairytale.
+Yep! It's the time tested, age old project of TicTacToe. The theming is inspired by my best friend, who's from Germany and has an intense love of hedgehogs, and I find the fact that "owl" in German is "Uhu" (the sound an owl makes) endearing. Therefore, the "players" are a hedgehog and an owl, and the overall visual theme is reminiscent of a German fairytale.
 
 **Link to project:** https://derigelundderuhu.netlify.app/
 
